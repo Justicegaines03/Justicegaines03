@@ -1,4 +1,5 @@
 # About Me
+> *"If you think technology can solve your security problems, then you don’t understand the problems, and you don’t understand the technology.” ― Bruce Schneier*
 
 ## 🛡️ Who I Am
 I'm a **strategic thinker**, a **pattern recognizer**, and a **connector** of ideas and people. My natural ability to see inefficiencies and solve complex problems. This ability makes me uniquely suited for **governance, risk, and compliance (GRC) in cybersecurity**. I navigate this space by blending technical knowledge with human insight—ensuring security isn't just about rules, but about making organizations stronger, more resilient, and future-proof. 
@@ -34,9 +35,5 @@ If you see security as an enabler rather than an obstacle, let’s connect. I’
 ---
 
 ## 📫 Connect with Me
-- 🔗 [LinkedIn](www.linkedin.com/in/justiceg)  
-- 📧 [Email](justiceg@uoregon.edu)  
-
-> *"If you think technology can solve your security problems, then you don’t understand the problems, and you don’t understand the technology.” ― Bruce Schneier*
-
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/justiceg)  
+- 🤝 [HandShake](https://app.joinhandshake.com/profiles/xv87kw)
