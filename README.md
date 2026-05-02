@@ -1,39 +1,52 @@
-# About Me
-> *"If you think technology can solve your security problems, then you don’t understand the problems, and you don’t understand the technology.” ― Bruce Schneier*
+# Hi, I’m Justice Gaines 👋
+📍 Eugene, OR | 🛡️ SOC Analyst | ⚙️ Security + Automation Builder
 
-## 🛡️ Who I Am
-I'm a **strategic thinker**, a **pattern recognizer**, and a **connector** of ideas and people. My natural ability to see inefficiencies and solve complex problems. This ability makes me uniquely suited for **governance, risk, and compliance (GRC) in cybersecurity**. I navigate this space by blending technical knowledge with human insight—ensuring security isn't just about rules, but about making organizations stronger, more resilient, and future-proof. 
-
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-0A66C2?style=flat-square)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SOC](https://img.shields.io/badge/Role-SOC%20Analyst-1f6feb?style=flat-square)
+## 🔁 Security Innovation Pipeline
+> I run a continuous security innovation pipeline from SOC/clinic friction to deployable tooling.
+At both the **University of Oregon TSOC** and the **Risk Clinic**, I’m constantly iterating on ways to make analyst workflows faster, clearer, and more resilient.
+**How I operate:**  
+`Signal → Hypothesis → Build → Field Test → Operational Lift`
+### Now Building
+- Hackathon build focused on reducing analyst friction in real-world response workflows
+### Recently Shipped / In Progress
+- **SOC-Risk-Engine**: dual-profile risk scoring workflows (B2B ALE + B2C recovery-difficulty)
+- **safe-scan**: pre-click QR safety validation concept with threat intelligence checks
+- **OpenClaw NIST AI RMF variant**: hardening + governance alignment work for AI-assisted systems
 ---
-
-## 🌍 How I See the World
-I see cybersecurity as more than just technology; it’s about understanding **how humans interact with security systems** and designing frameworks that align with both business needs and ethical responsibility. Risk isn’t just something to be avoided—it’s something to be **strategically managed**. 
-
+## What I’m Focused On
+- **Security Engineering:** building tools that turn security concepts into working systems
+- **SOC Workflows:** incident triage, enrichment, and operational decision support
+- **Risk Quantification:** translating technical findings into actionable risk signals
+- **Automation:** combining app workflows + AI-assisted tooling for repeatable security tasks
 ---
-
-## 💡 Strengths That Define Me
-- ✅ **Big-Picture Thinking** – I connect dots others miss, seeing how policies, risks, and compliance frameworks fit into the broader cybersecurity landscape.  
-- ✅ **Deep Learning & Adaptability** – I pick up new concepts fast, making it easy for me to stay ahead of emerging cybersecurity threats and regulations.  
-- ✅ **Clear, Persuasive Communication** – I make complex security policies understandable and actionable, bridging the gap between technical teams and leadership.  
-- ✅ **Relationship Builder** – I naturally connect with people, ensuring compliance isn’t just a requirement but an integrated part of company culture.  
-- ✅ **Long-Term Strategic Vision** – I don’t just put out fires; I design systems that prevent them from happening in the first place.  
-
+## Featured Projects (Built in my repos)
+### 🔹 [SOC-Risk-Engine](https://github.com/Justicegaines03/SOC-Risk-Engine)
+Quantitative SOC scoring platform using **TheHive + Cortex** with dual models:
+- **B2B:** Annualized Loss Expectancy (ALE)
+- **B2C:** Recovery-difficulty scoring for identity theft scenarios
+### 🔹 [OpenClaw_NIST-AI-RMF_Compliance](https://github.com/Justicegaines03/OpenClaw_NIST-AI-RMF_Compliance)
+Security-focused OpenClaw variant designed to reduce top vulnerabilities and align with **NIST AI RMF** goals.
+### 🔹 [safe-scan](https://github.com/Justicegaines03/safe-scan)
+Secure QR validation concept focused on **pre-click risk checks**, including VirusTotal-assisted URL validation and safety tagging workflows.
+### 🔹 [catalyst-automation](https://github.com/Justicegaines03/catalyst-automation)
+Automation stack for realtor workflows using a **Next.js app + n8n orchestration**.
 ---
-
-## ⚡ Challenges I Navigate
-- ⚠️ **Energy Management** – As someone who thrives on strategy, I have to be careful not to overextend myself by diving too deep into execution. I delegate when needed to stay effective.  
-- ⚠️ **Decision-Making Speed** – I take time to process big decisions, which is usually a strength but can slow things down in fast-moving security incidents. I counter this by defining clear protocols for immediate action.  
-- ⚠️ **Need for Recognition** – I work best when my contributions are seen and valued. I seek environments where my insights help shape decisions rather than just enforce them.  
-
+## Open-Source Contribution Work (Forks + Extensions)
+- [pai-opencode](https://github.com/Justicegaines03/pai-opencode) — active contribution fork in personal AI infrastructure workflows
+- [Personal_AI_Infrastructure](https://github.com/Justicegaines03/Personal_AI_Infrastructure) — adaptation work around personal AI systems
+- [BackdoorsAndBreaches_Personal_IR_Hotline](https://github.com/Justicegaines03/BackdoorsAndBreaches_Personal_IR_Hotline) — TSOC educational IR pilot extensions for university use
 ---
-
-## 🚀 What I’m Building
-I’m designing a career that **blends cybersecurity, governance, and strategic leadership**—ensuring businesses don’t just stay compliant but actually become stronger through security. My work is about making organizations resilient, guiding them toward **better security practices without unnecessary friction**.
-
-If you see security as an enabler rather than an obstacle, let’s connect. I’m here to make cybersecurity **practical, effective, and human-focused**.
-
+## Professional Context
+- **SOC Analyst** at University of Oregon Teaching Security Operations Center
+- Cybersecurity student-practitioner focused on turning policy/risk/security theory into implementation
+- Interested in technical roles across **security operations, security engineering, and automation-enabled defense**
 ---
-
-## 📫 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/justiceg)  
-- 🤝 [HandShake](https://app.joinhandshake.com/profiles/xv87kw)
+## Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/justiceg)
+- [Handshake](https://app.joinhandshake.com/profiles/xv87kw)
+If you're hiring for a technical cybersecurity role, I’d love to connect.
